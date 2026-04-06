@@ -1,0 +1,6 @@
+drax_browser_profile/
+debug_*.png
+__pycache__/
+*.pyc
+.env
+*.log
